@@ -53,7 +53,7 @@ proot-distro login ubuntu <<-EOF
   
   ./Godot_v4.3-rc3_linux.arm32 --export-release "Android" ./name.apk --headless
 
-  git clone https://github.com/UnderGamer05/build-game.git
+  git clone https://github.com/bus7232/build-game.git
   
   cd build-game
   chmod +x build-game.sh
